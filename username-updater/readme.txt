@@ -3,7 +3,7 @@ Contributors: yogeshpant
 Donate link: https://www.paypal.me/pantyogesh
 Tags: username updater, change username, wordpress username updater, wordpress username changer,easy username updater
 Requires at least: 4.0
-Tested up to: 6.6.2
+Tested up to: 6.8.1
 Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
